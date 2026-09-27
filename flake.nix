@@ -123,6 +123,7 @@
                 libxcb-cursor
                 libxcb-keysyms
                 libxcb-render-util
+                pipewire
                 pam
                 systemd
                 libglvnd
